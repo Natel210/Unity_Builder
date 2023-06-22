@@ -17,7 +17,7 @@
     Make Integrate Hearder And Cpp File (UnityBulid.h, UnityBulid.cpp)
     
 # Features to be added and improved
-    #auto macro uninclude .h files
+    auto macro uninclude .h files
 
 # v1.0 default
     When build uninclude .cpp
