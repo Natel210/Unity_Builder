@@ -1,4 +1,5 @@
 # Make UnityBuild
+    Creation of Unity Build development environment
     reduce tiem build.
 
 # Newest Vertion
@@ -14,7 +15,8 @@
     
 # Work
     When build uninclude .cpp
-    Make Integrate Hearder And Cpp File (UnityBulid.h, UnityBulid.cpp)
+    Make Integrate Hearder And Cpp File
+     (UnityBulid.h, UnityBulid.cpp)
     
 # Features to be added and improved
     auto macro uninclude .h files
