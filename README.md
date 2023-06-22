@@ -12,7 +12,7 @@
     .net 7.0
     console
     
-# Wark
+# Work
     When build uninclude .cpp
     Make Integrate Hearder And Cpp File (UnityBulid.h, UnityBulid.cpp)
     
