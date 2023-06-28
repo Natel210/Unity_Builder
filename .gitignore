@@ -491,6 +491,10 @@ fabric.properties
 .history
 .ionide
 
+### User Exclude Files ###
+Bin/
+
+
 ### VisualStudio ###
 
 # User-specific files

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33801.468
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UnityBuilder", "UnityBuild\UnityBuilder.csproj", "{771170F2-96E6-4F78-977B-7B4A025E781E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Git", "Git", "{F4E76BC8-401A-41FF-B0D1-E23FB73D3582}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{771170F2-96E6-4F78-977B-7B4A025E781E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771170F2-96E6-4F78-977B-7B4A025E781E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771170F2-96E6-4F78-977B-7B4A025E781E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771170F2-96E6-4F78-977B-7B4A025E781E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6967BD91-7A7C-40C5-83E1-8C0F92CA8666}
+	EndGlobalSection
+EndGlobal
